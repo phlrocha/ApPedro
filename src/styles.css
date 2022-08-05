@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.banner{
+    background-image: url('src\assets\img\background.jpg');
+    height: 1000px;
+    background-position: center top;
+    background-size: cover;
+
+    width: 100%;
+    display:table;
+}

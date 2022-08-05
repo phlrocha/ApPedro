@@ -1,0 +1,9 @@
+.aboutstyle{
+    height: 1000px;
+    width: 600px;
+    background-color: aliceblue;
+    
+}
+.aboutstyle h1{
+    text-align: center;
+}
