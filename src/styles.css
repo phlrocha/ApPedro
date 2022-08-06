@@ -8,3 +8,28 @@
     width: 100%;
     display:table;
 }
+.textstyle{
+    height: 1000px;
+    width: 70%;
+    background-color: gray;
+    
+    margin-left:15% ;
+    opacity:0.9;
+    color:black
+}
+.textstyle h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 75px;
+    opacity: 1;
+}
+.textstyle p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    opacity: 1;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    text-align: justify;
+}
