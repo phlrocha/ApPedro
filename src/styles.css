@@ -23,13 +23,30 @@
     font-style: oblique;
     font-weight: bolder;
     font-size: 75px;
-    opacity: 1;
+
 }
 .textstyle p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
-    opacity: 1;
     margin-left: 1cm;
     margin-right: 1cm;
     text-align: justify;
+}
+.textstyle ul{
+    list-style-type: circle;
+    color: black;
+}
+.textstyle li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.textstyle h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
