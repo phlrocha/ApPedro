@@ -10,43 +10,9 @@
 }
 .textstyle{
     height: 1000px;
-    width: 70%;
-    background-color: gray;
-    
-    margin-left:15% ;
-    opacity:0.9;
-    color:black
-}
-.textstyle h1{
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: oblique;
-    font-weight: bolder;
-    font-size: 75px;
-
-}
-.textstyle p{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
-    margin-left: 1cm;
-    margin-right: 1cm;
     text-align: justify;
-}
-.textstyle ul{
-    list-style-type: circle;
-    color: black;
-}
-.textstyle li{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
-    color: black;
-    margin-left: 1cm;
-    margin-right: 1cm;
-}
-.textstyle h2{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-    color: black;
-    margin-left: 1cm;
-    margin-right: 1cm;
+    margin-left:15px;
+    color:black;
+    margin-right:15px;
+    font-size: x-large;
 }
